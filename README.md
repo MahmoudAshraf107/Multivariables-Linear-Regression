@@ -1,6 +1,6 @@
 # Multivariables-Linear-Regression
 This is linear regression script which can deals with one variable or mutlivariables linear regression.
-This script tested by using data set (data.txt) from coursera pltform Ml Stanford University courses.
+This script tested by using data set (data.txt) from coursera platform Ml Stanford University courses.
 
 Instructions:
 1.first you get load your dataset in line 6 (there are two datasets attached with the file)
